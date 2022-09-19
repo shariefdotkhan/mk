@@ -8,12 +8,6 @@
   <name>01-Maven-App</name>
   <url>http://maven.apache.org</url>
   <dependencies>
-  <!-- https://mvnrepository.com/artifact/org.springframework/spring-core -->
-  <dependency>
-    <groupId>org.springframework</groupId>
-    <artifactId>spring-core</artifactId>
-    <version>5.3.23</version>
-</dependency>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
